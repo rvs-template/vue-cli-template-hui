@@ -10,7 +10,7 @@
   ],
   "plugins": [
     "transform-runtime",
-    ["import", [{ "libraryName": "tui-ui", "style": true }]]
+    ["import", [{ "libraryName": "tui-ui", "libraryDirectory": "es", "style": true }]]
   ],
   "env": {
     "test": {
