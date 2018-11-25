@@ -4,9 +4,9 @@
 
 Usage
 
-```
+```javascript
 $ npm install -g vue-cli
-$ vue init youzan/vue-cli-template-vant my-project
+$ vue init rvs-template/vue-cli-template-hui my-project
 $ cd my-project
 $ npm install
 $ npm run dev

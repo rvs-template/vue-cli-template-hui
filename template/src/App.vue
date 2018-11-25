@@ -8,7 +8,7 @@
 </template>
 
 <script>
-import { Cell, CellGroup, Icon } from 'hui';
+import { Cell, CellGroup, Icon } from 'tui-ui';
 
 export default {
   components: {
